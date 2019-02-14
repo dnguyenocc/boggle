@@ -8,9 +8,13 @@ The rules of Boggle:
  
 The above examples show “tie” and “cat” as valid words.
 Input file format example:
+
 3
+
 c j e
+
 e a o
+
 i t e
 
 The number signifies the N, in NxN grid and the rest of the N lines represent the grid. 
